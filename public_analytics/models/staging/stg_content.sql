@@ -1,0 +1,1 @@
+select * from pds1.stg_content
